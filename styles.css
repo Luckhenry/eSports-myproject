@@ -123,11 +123,12 @@ section ul li:hover {
 }
 
 .popular-list img {
-    /*width: 90px;*/
+    width: 90px;
     border-radius: 8px;
 }
 
 .film-list img {
+    width: 90px;
     border-radius: 8px;
 }
 
