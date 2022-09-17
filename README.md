@@ -2,7 +2,7 @@
 
 > Trilha Explorer
 
-![preview](./github/preview.png)
+![preview](./github/preview1.png)
 
 Meu primeiro projeto, desafio proposto pelo Next Level Week da Rocketseat.
 
